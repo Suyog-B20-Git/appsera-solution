@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/assets/main.[hash].js",
+    "main.css": "/assets/main.[hash].css",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "/assets/main.[hash].js",
+    "/assets/main.[hash].css"
+  ]
+}
+
